@@ -1,0 +1,25 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+   /* background-color: #FF4066; */
+}
+
+.info{
+    font-size: 30px;
+}
+.con{
+    padding-top: 80px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.but{
+    size: 100px;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.nav-col{
+    color: gray;
+}
